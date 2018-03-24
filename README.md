@@ -1,4 +1,4 @@
-Progress: <progress value="0" max="20"></progress> 
+Progress: <progress value="10" max="20"></progress> 
 - Done
   - Item
   - Item
